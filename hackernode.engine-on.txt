@@ -1,0 +1,9 @@
+title hacknode(activated)
+cls
+prompt $$hacknode.
+cls
+color 0a
+cls
+msg * 
+welcome sir
+
